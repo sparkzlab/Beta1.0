@@ -1,0 +1,18 @@
+/*!
+Some custom CSS
+Licensed under the Apache Lincense
+
+Copyright (c) 2016 Nicolas Pettican
+
+*/
+
+/* Structure for header */
+.intro-header {
+  background-position: 50% 0%;
+  height:100%;
+}
+
+/* Structure for the index nav */
+.rowhornav {
+  margin-top: 8%;
+}
