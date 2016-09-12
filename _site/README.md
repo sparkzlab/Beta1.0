@@ -25,4 +25,4 @@ Nothing special yet, just a skeleton that needs some juicy meat to be added! But
 ### General Git Instructions
 
 - Update general changes to local repo: ```git pull```
-- Upload changes to master: ```git add .``` ```git commit -m 'comment'``` ```git push origin master```
+- Upload changes to master: ```git add .``` ```git commit -m 'NAME - comment'``` ```git push origin master```
